@@ -1,7 +1,7 @@
 # A1-Exercise1
 ## An exercise on Neural Networks
 
-** As required for this exercise, the number of hidden layers, neutrons and activation function is changed. The number of hidden layer is changed to 4 with 128, 64, 64 and 32 neutrons. And the activation function is changed to `tanh`.
+*As required for this exercise, the number of hidden layers, neutrons and activation function is changed. The number of hidden layer is changed to 4 with 128, 64, 64 and 32 neutrons. And the activation function is changed to `tanh`.
 
 ** The model produced a val-accuracy of `0.987` which is close to 1. This is an indication that my model, with the changed hidden layer, neutrons and activation function, is neither underfitted nor overfitting for the dataset.
 
